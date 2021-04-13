@@ -159,7 +159,7 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #F7B50F;
   text-decoration: none;
   background-color: transparent;
 }
@@ -365,6 +365,7 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 700;
   line-height: 1.2;
   color: #343a40;
+  text-transform: capitalize
 }
 
 h1, .h1 {
@@ -6075,7 +6076,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #F7B50F !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
